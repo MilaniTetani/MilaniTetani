@@ -3,9 +3,7 @@
 ## About Me
 I'm a Computer Science & Maths Student at Rhodes University.
 
-- 🌱 I’m currently learning Java, Python, C, SQL, HTML, CSS, and JavaScript.
-  
-- 🔭 I’m currently working on my Task Manager WEB Application (collaborations are open)
+- 🌱 I’m currently learning Java, Python, C, SQL, HTML, CSS, JavaScript, and F#.
   
 ## 📫 How to Reach Me
 - **Email**: [milanitetani@gmail.com](mailto:milanitetani@gmail.com)
