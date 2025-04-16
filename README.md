@@ -3,7 +3,8 @@
 ## About Me
 I'm a Computer Science & Maths Student at Rhodes University.
 
-- 🌱 I’m currently learning Java, Python, C, SQL, HTML, CSS, JavaScript, and F#.
+- 🌱 Programming languages I've learnt so far: Java, Python, C, SQL, HTML, CSS, JavaScript, and F#.
+- 🥳 I am currently learning OpenCV for computer vision.
   
 ## 📫 How to Reach Me
 - **Email**: [milanitetani@gmail.com](mailto:milanitetani@gmail.com)
